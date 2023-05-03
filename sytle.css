@@ -3,6 +3,8 @@
     padding: 0%;
 }
 
+
+
 li{
     color: white;
     padding: 5px;
@@ -12,6 +14,9 @@ li{
     margin-top: 20px; */
    
     
+}
+body{
+    background-color: blue;
 }
 
 
@@ -48,4 +53,10 @@ header{
     width: 8%;
     height: 8%;
     /* margin-left: 108%; */
+}
+
+.busqueda{
+
+    background-color: brown;
+
 }
