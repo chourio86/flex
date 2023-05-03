@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+li{
+    color: white;
+    padding: 5px;
+    text-align: center;
+    list-style: none;
+    /* margin-left: 80px;
+    margin-top: 20px; */
+   
+    
+}
+
+
+header{
+    display: flex;
+    flex-flow: row wrap;
+    background-image: url(../imagenes/86773.jpg);
+   
+   
+    
+}
+.padre{
+    display: flex;
+    flex-flow: row nowrap;
+    background-color:blue;
+  
+   
+   
+  }    
+
+.contenedor{
+   
+    display: flex;
+    align-items: start;
+    flex-flow: row nowrap;
+    font-family: 'Shantell Sans', cursive;;
+    font-size: x-large;
+    justify-content: left;
+    
+}
+
+
+.homa{
+    width: 8%;
+    height: 8%;
+    /* margin-left: 108%; */
+}
